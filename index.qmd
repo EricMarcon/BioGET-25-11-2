@@ -165,7 +165,7 @@ The full documentation is on-line[^4].
 [^4]: <https://quarto.org/docs/authoring/markdown-basics.html/>
 
 $$
-S = c A^z * \frac{2}{3} + \sqrt{\pi} + \sum_{i=0}^{n}{i^2}
+S = c A^z
 $$ {#eq-arrhenius}
 
 ## R and other code
